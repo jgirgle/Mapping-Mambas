@@ -6,8 +6,8 @@
 
 
 ## Tools and Libraries Project Uses:
-Python
-SQLite
+Python,
+SQLite,
 Open Weather Map API
 
 ## Source:
