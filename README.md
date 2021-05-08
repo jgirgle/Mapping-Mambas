@@ -18,7 +18,8 @@ NBA Franchise Values : https://www.statista.com/statistics/193696/franchise-valu
 <br/>
 NBA Team Revenues : https://www.statista.com/statistics/193704/revenue-of-national-basketball-association-teams-in-2010/
 <br/>
-NBA Operating Income : https://www.statista.com/statistics/193707/operating-income-of-national-basketball-association-teams-in-2010/## Data Gathering:
+NBA Operating Income : https://www.statista.com/statistics/193707/operating-income-of-national-basketball-association-teams-in-2010/## 
+Data Gathering:
 Using SQLite and Python we organized the data for our Visualizations
 
 ## Visualization Design:
