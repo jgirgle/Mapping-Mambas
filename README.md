@@ -13,6 +13,10 @@ Python, SQLite, HTML, CSS, D3, Leaflet, and Mapbox
 Historical NBA Data- (From 1946 to Current): https://www.kaggle.com/wyattowalsh/basketball
 <br/>
 NBA Championship Data- (From 1950 to 2020): https://data.world/datatouille/nba-finals-and-mvps
+<br/>
+NBA Franchise Values : https://www.statista.com/statistics/193696/franchise-value-of-national-basketball-association-teams-in-2010/
+<br/>
+NBA Team Revenues : https://www.statista.com/statistics/193704/revenue-of-national-basketball-association-teams-in-2010/
 
 ## Data Gathering:
 Using SQLite and Python we organized the data for our Visualizations
