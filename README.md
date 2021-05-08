@@ -17,8 +17,8 @@ NBA Championship Data- (From 1950 to 2020): https://data.world/datatouille/nba-f
 NBA Franchise Values : https://www.statista.com/statistics/193696/franchise-value-of-national-basketball-association-teams-in-2010/
 <br/>
 NBA Team Revenues : https://www.statista.com/statistics/193704/revenue-of-national-basketball-association-teams-in-2010/
-
-## Data Gathering:
+<br/>
+NBA Operating Income : https://www.statista.com/statistics/193707/operating-income-of-national-basketball-association-teams-in-2010/## Data Gathering:
 Using SQLite and Python we organized the data for our Visualizations
 
 ## Visualization Design:
