@@ -27,7 +27,7 @@ Using HTML, CSS, D3, Leaflet, and Mapbox we created the following visualizations
 ![Alt text](Team%20Logos/Championship%20Race%20Image.png?raw=true "Championship Race")
 
 ### Team Budget Bubble Chart
-![Alt text](Team%20Logos/Budget%20Bubble%20Image.png?raw=true "Budget Bubble")
+![Alt text](Team%20Logos/Budget%20Bubble.png?raw=true "Budget Bubble")
 
 
 ## Any feedback? Send us a message for future features and visualizations!
